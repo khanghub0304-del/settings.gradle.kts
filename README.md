@@ -1,18 +1,16 @@
-pluginManagement {
-    repositories {
-        google()
-        mavenCentral()
-        gradlePluginPortal()
-    }
-}
+NovaCraft Launcher
 
-dependencyResolutionManagement {
-    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
-    repositories {
-        google()
-        mavenCentral()
-    }
-}
+NovaCraft Launcher là dự án launcher Minecraft Java trên Android.
 
-rootProject.name = "NovaCraftLauncher"
-include(":app")
+Tính năng dự kiến
+
+- Giao diện tối.
+- Quản lý hồ sơ và phiên bản.
+- Quản lý mod và tài nguyên.
+- Tùy chỉnh điều khiển.
+- Cài đặt đồ họa và bộ nhớ RAM.
+- Xem nhật ký và lỗi.
+
+Trạng thái
+
+Dự án đang trong giai đoạn phát triển. Các tính năng chạy Minecraft thực tế chưa được tích hợp đầy đủ.
